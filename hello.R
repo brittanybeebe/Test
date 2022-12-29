@@ -1,4 +1,4 @@
 hello <- function (){
   print("hello world")
-  print("error)
+  print("error")
 }
